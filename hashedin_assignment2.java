@@ -1,5 +1,5 @@
-// "static void main" must be defined in a public class.
-import java.util.*;
+
+// I HAVE TRIED TO IMPLEMENT THE FOLLOWING ALGORITHM. THERE MAY BE SOME SYNTACTICAL MISTAKES BECAUSE I DID NOT HAVE TIME TO DEBUG THEM. THANK YOU :)
 public class Main {
     public static void main(String[] args) {
         String[] teams = {"a","b","c","d","e","f","g"};
